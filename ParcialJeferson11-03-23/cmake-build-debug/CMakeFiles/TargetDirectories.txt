@@ -1,0 +1,3 @@
+C:/Users/jefer/CLionProjects/ParcialJeferson11-03-23/cmake-build-debug/CMakeFiles/ParcialJeferson11_03_23.dir
+C:/Users/jefer/CLionProjects/ParcialJeferson11-03-23/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jefer/CLionProjects/ParcialJeferson11-03-23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
